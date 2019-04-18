@@ -5,7 +5,7 @@
         <img src="../assets/状态栏.png" alt="" class="Status_Bar_4">
     </div>
         <div class="header_box4">
-        <img src="../assets/Return.png" alt="" class="Return_2">
+        <router-link to="/Bxx_state"><img src="../assets/Return.png" alt="" class="Return_2"></router-link>
         <img src="../assets/add.png" alt="" class="Add_Pic">
       <span class="bjjl_span4">关联用户</span>
     </div>
