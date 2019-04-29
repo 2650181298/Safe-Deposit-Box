@@ -10,6 +10,7 @@ class MyMessageController extends Controller {
     await ctx.render('myMessage');
     
   }
+
   
 
 }
